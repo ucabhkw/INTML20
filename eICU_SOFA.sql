@@ -1,5 +1,7 @@
 --IMPORTANT: Please note that there are some possible issues.
 --This code is based on code by Matthieu and Michael and others, with changes to allow it to be used 
+--Thanks to Matthieu, Michael and Mornin! 
+--https://github.com/nus-mornin-lab/oxygenation_kc/blob/master/data-extraction/eICU/eicu_sofa_results.sql
 --The code has been translated into Bigquery for the AKI study.
 
 
